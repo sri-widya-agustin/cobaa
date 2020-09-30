@@ -22,8 +22,7 @@ li {
 
 .header-list li {
   float: right;
-  font-size: 30px;
-  padding: 33px 20px;
+  padding: 20px 30px 20;
 }
 
 .main {
@@ -53,7 +52,7 @@ li {
 }
   
 .section-title {
-  border-bottom: 2px solid #bdf7f1;
+  border-bottom: 2px solid black;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
