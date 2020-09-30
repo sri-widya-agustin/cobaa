@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #f7f2b4;
   color: #fff;
   height: 90px;
 }
@@ -16,10 +16,11 @@ li {
   float: left;
   font-size: 36px;
   padding: 20px 40px;
+  border: 5px solid navy;
 }
 
 .header-list li {
-  float: left;
+  float: right;
   padding: 33px 20px;
 }
 
@@ -28,7 +29,7 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 120px;
+  font-size: 100px;
 
 
 .copy-container h2 {
@@ -49,14 +50,14 @@ li {
 }
 
 .section-title {
-  border-bottom: 2px solid #dee7ec;
+  border-bottom: 2px solid #bdf7f1;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
 
 .contents-item {
-  float: left;
+  float: right;
   margin-right: 40px;
 }
 
@@ -67,6 +68,7 @@ li {
 
 .contact-form {
   padding-top: 100px;
+  border-bottom: 5px solid red;
 }
 
 /* Add CSS for <input> and <textarea> tags */
@@ -86,7 +88,7 @@ input, textarea {
 }
 
 .footer {
-  background-color: #2f5167;
+  background-color: #ceccf3;
   color: #fff;
   height: 120px;
   padding: 40px;
