@@ -48,6 +48,12 @@ li {
   height: 500px;
   margin-top: 100px;
 }
+  
+.contents h4{
+  height: 500px;
+  margin-top: 100px;
+  border-bottom: 5px solid red;
+}  
 
 .section-title {
   border-bottom: 2px solid #bdf7f1;
