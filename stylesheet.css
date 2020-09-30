@@ -22,7 +22,7 @@ li {
 
 .header-list li {
   float: right;
-  padding: 20px 30px 20;
+  padding: 20px 30px 20px;
 }
 
 .main {
@@ -30,7 +30,7 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 80px;
+  font-size: 85px;
 
 
 .copy-container h2 {
