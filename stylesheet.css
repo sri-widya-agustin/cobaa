@@ -32,6 +32,17 @@ li {
   padding: 20px 40px;
 }
 
+.mobile-menu{
+  float: right;
+  display: none;
+  padding:18px;
+  border:1px solid;
+}
+
+#check{
+  display:none;
+}
+
 .main {
   padding: 100px 80px;
   background-color: #FFC0CB;
@@ -116,3 +127,11 @@ input, textarea {
 .footer-list li {
   padding-bottom: 20px;
 }
+
+@media(max-width: 670px){
+  .mobile-menu{
+    display:block;
+  }
+  header-list li {
+    display:none;
+  }
